@@ -1,3 +1,6 @@
+This is a simple file tree app coded alongside Youtuber Hey Programming
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
